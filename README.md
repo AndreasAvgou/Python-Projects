@@ -6,5 +6,5 @@ Summary of all python projects
 2) [Simple Search Algorithms](https://github.com/AndreasAvgou/Simple-Search-Algorithms)
 3) [Simulation & Modeling](https://github.com/AndreasAvgou/Simulation-and-Modeling)
 4) [Distributed Network Systems](https://github.com/AndreasAvgou/distributed-network-systems)
-5) [Geometric Random Graph Packet Routing Simulation](https://github.com/AndreasAvgou/Geometric-Random-Graph-Packet-Routing-Simulation)
+5) [Packet Routing Simulation](https://github.com/AndreasAvgou/Packet-Routing-Simulation)
 
